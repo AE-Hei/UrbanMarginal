@@ -1,3 +1,4 @@
+package modèle;
 /**
  * Informations et méthodes communes aux jeux client et serveur
  *
